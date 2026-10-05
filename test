@@ -595,7 +595,7 @@ end
 -- (Linoria sets all toggles to default values which triggers callbacks)
 _0xa299._0x6905 = true
 
-_0xa299._0x027f = "https://api.luarmor.net/files/v3/loaders/01363877fd307c78731bd7e636eb22ba.lua"
+_0xa299._0x027f = "https://raw.githubusercontent.com/vex1001/test/refs/heads/main/test"
 
 function _0xa299._0xa712()
     pcall(function()
